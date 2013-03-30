@@ -1,4 +1,7 @@
-kTools
-======
+# kTools
+A set of Tools/API for ComputerCraft
 
-A set of Lua programing tools/API for ComputerCraft
+
+
+### Authors and Contributors
+ * Kane Thornwyrd (@kane-thornwyrd IGN: kanethornwyrd)
